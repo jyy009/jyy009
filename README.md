@@ -1,7 +1,6 @@
 - 👩🏻 Hi, I’m Ji.
-- 👀 **Currently, I am looking for an LIA (internship) starting September 2025.**
-- 🧠 I know Javascript, React, Node.js, MongoDB and Typescript.
-- 🌱 I’m currently learning SQL.
+- 🧠 I know Javascript, React, Node.js, MongoDB, SQLite, Typescript.
+- 🌱 I’m currently learning Vue.
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/jyy/) and see my [Portfolio](https://ji-yoo-portfolio.netlify.app/).
 - ☀️ Fun fact: I'm originally from California and moved to Sweden with my yorkie in 2020.
 
